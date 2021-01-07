@@ -1,0 +1,7 @@
+.navs{
+    width: 100%;
+    height: 2rem;
+    background: forestgreen;
+position: fixed;
+    z-index: 9999;
+}
